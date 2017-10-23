@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calconn</string>
+    <string name="send_button_label">Calculate and Update</string>
+</resources>

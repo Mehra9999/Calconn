@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "343336199683",
+    "firebase_url": "https://calconn-f8f82.firebaseio.com",
+    "project_id": "calconn-f8f82",
+    "storage_bucket": "calconn-f8f82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343336199683:android:62bbdd4781c5dc09",
+        "android_client_info": {
+          "package_name": "com.example.ishan.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343336199683-9kv82flmuhp39p2gbk40tb1levirndqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvYs5SAZ8bgHYDDRpK7wWxxXofsx2UVpQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
